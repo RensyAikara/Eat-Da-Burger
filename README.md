@@ -6,3 +6,5 @@ This application is a burger logger with MySQL, Node, Express, Handlebars and a 
 ## Usage
 ![Deployed image](/public/assets/img/deployed_app.png)
 
+## Deployed Application (via Heroku)
+[Eat_Da_Burger!](https://shrouded-inlet-95318.herokuapp.com/)
