@@ -1,0 +1,23 @@
+#containerBody{
+    background-color: rgb(230, 157, 22);
+}
+
+#firstRow{
+    text-align: center;
+    padding-top: 5%;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
+#addingBurger{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#submitButton{
+    background-color: rgb(25, 25, 131);
+    color: white;
+}
